@@ -52,7 +52,7 @@ Searching for badge new languages.
 
 ### 👣 Next Steps
 
-_Since you don't want to leave my profile just yet! Here are a few things you can do :_
+_It's not all folks! :rabbit: Here are a few things you can do :_
 
 1- Support me : (Give me your indication 💰) What do you think of have like your cool-legue @ wokr?😌 Just go to step 3...
 
