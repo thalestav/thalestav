@@ -58,4 +58,4 @@ _Since you don't want to leave my profile just yet! Here are a few things you ca
 
 2- Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Twitter Badge]((https://twitter.com/thalestav))
 
-3- Offer work : Send the details on [![Linkedin Badge](https://www.linkedin.com/in/thalestav/)](https://www.linkedin.com/in/thalestav/)
+3- Offer work : Send the details on [![Linkedin Badge]((https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/in/thalestav/)](https://www.linkedin.com/in/thalestav/)
