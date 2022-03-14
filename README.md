@@ -26,7 +26,7 @@ Stacks I'm studying  : Html5 , CSS3, JS and React.
 Want to become a full-time developer 💸 and an Open Source Contributor.
 </p>
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/game-of-thrones-ghunn7VEJjj32" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/ghunn7VEJjj32/giphy.gif" />
   
 ### ✨ Quick Facts
 
