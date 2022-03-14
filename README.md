@@ -56,6 +56,6 @@ _Since you don't want to leave my profile just yet! Here are a few things you ca
 
 1- Support me : (Give me your indication 💰) What do you think of have like your cool-egue @ wokr?😌 Just go to step 3...
 
-2- Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Twitter Badge]((https://twitter.com/thalestav))
+2- Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Twitter Badge](https://img.shields.io/badge/-@thalestav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thalestav)](https://twitter.com/thalestav)
 
 3- Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Thales_Tavares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalestav/)](https://www.linkedin.com/in/thalestav/)
