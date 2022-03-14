@@ -19,7 +19,7 @@
 <br/>
 
 <p>
-A Full Stack JavaScript Developer 🚀 from Brazil. I consider myself as a beginner JS Developer with good logical thinking and proactivity skills.
+A Full Stack JavaScript Developer 🚀 from Brazil. I am a beginner JS Developer who loves tech and entrepreneurship with good logical thinking and proactivity skills.
 <br/>
 Stacks I'm studying  : Html5 , CSS3, JS and React.
 <br/>  
