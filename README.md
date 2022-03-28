@@ -25,17 +25,7 @@ Stacks I'm studying  : Html5 , CSS3, JS and React.
 <br/>  
 Want to become a full-time developer 💸 and an Open Source Contributor.
 </p>
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/ghunn7VEJjj32/giphy.gif" />
-  
-### ✨ Quick Facts
-
-- 👨🏽‍💻 I’m currently in love with FrontEnd 
-- 🌱 I’m currently learning Html, css, Js, Bootstrap, TS and React
-- 💬 Ask me about anything and i promisse i'll try to help y'll
-- 🎿 Hobbies other than coding : Ride bikes , Study English and watch Game Of Thrones over and over again :wolf: (King Of the north!!) ..
-- 📫 How to reach me: thalestav41@gmail.com
-- 📝 [Resume](https://https://www.linkedin.com/in/thalestav/) 
+ 
 
 ### 🛠️ Languages and Tools:
 
@@ -48,14 +38,5 @@ Want to become a full-time developer 💸 and an Open Source Contributor.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 Searching for badge new languages.
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/ghunn7VEJjj32/giphy.gif" />
 
-
-### 👣 Next Steps
-
-_It's not all folks! :rabbit: Here are a few things you can do :_
-
-1- Support me : (Give me your indication 💰) What do you think of have like your cool-legue @ wokr?😌 Just go to step 3...
-
-2- Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Twitter Badge](https://img.shields.io/badge/-@thalestav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thalestav)](https://twitter.com/thalestav)
-
-3- Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Thales_Tavares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalestav/)](https://www.linkedin.com/in/thalestav/)
