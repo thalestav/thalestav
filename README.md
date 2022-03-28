@@ -38,5 +38,5 @@ Want to become a full-time developer 💸 and an Open Source Contributor.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 Searching for badge new languages.
- <img align="right" alt="GIF" src="https://media.giphy.com/media/ghunn7VEJjj32/giphy.gif" />
+ <img align="left" alt="GIF" src="https://media.giphy.com/media/ghunn7VEJjj32/giphy.gif" />
 
